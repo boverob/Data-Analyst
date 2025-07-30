@@ -1,0 +1,4 @@
+rielabora il testo e restituisci una versione scritta bene e ordinata in PD
+
+
+rielabora tutto il testo del documento e restituisci una versione scritta bene e ordinata 
