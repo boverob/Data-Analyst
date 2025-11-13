@@ -1,0 +1,11 @@
+TechMarket S.p.A. è una delle principali catene di distribuzione al dettaglio di prodotti di elettronica in Italia, con punti vendita distribuiti in tutto il Paese. L’azienda si trova a dover gestire enormi quantità di dati provenienti da ciascun punto vendita, e ha bisogno di ottenere report completi e dettagliati sulle vendite dei suoi prodotti di punta. Per questo motivo, TechMarket ha deciso di investire in una soluzione avanzata di reportistica delle vendite, capace di aggregare e visualizzare dati complessi in modo chiaro e navigabile.
+
+TechMarket ti assume per implementare un sistema di reportistica che elabori i dati di vendita e fornisca informazioni dettagliate ai decision-maker. Il report permetterà di monitorare le vendite, le performance dei prodotti, l’efficacia delle promozioni e la resa di ogni singolo negozio.
+
+L'obiettivo è creare un report interattivo che permetta ai manager di TechMarket di:
+
+- Visualizzare le vendite mensili, tenendo in considerazione sconto, unità vendute e prezzo
+- Analizzare le vendite per ciascuna città
+- Monitorare le performance di vendita per ogni prodotto
+- Ottenere una panoramica completa dei dati di ciascun punto vendita
+- Pagina che tenga conto dei resi per calcolare le vendite nette, al fine di avere una visione più accurata delle performance.
