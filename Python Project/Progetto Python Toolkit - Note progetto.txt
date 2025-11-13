@@ -1,0 +1,5 @@
+Analisi dei disastri aerei dal 1919 al 2023
+
+La neonata IASS (International Alliance for Safe Skies) ha incaricato di svolgere un'accurata analisi di tutti gli incidenti aerei che si sono verificati dal 1919 al 2023.
+
+A tale scopo mette a disposizione un set di dati in cui sono registrati quasi 25.000 incidenti

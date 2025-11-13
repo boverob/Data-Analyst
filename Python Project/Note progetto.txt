@@ -1,1 +1,0 @@
-Progetto sviluppato e utilizzabile su Google Colab
